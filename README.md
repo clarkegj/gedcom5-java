@@ -1,3 +1,5 @@
+***THE PREVIOUS NAME OF THIS REPOSITORY WAS JUST gedcom***
+
 Here is a parser that converts GEDCOM files to a _de facto_ object model.
 
 De Facto object model
